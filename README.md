@@ -5,3 +5,4 @@ FEATURES:
 ✅check completed ones by dates
 list of completed items & remaining items.
 usage of local storage. Instead of refreshing page frequently tasks added list will be same.
+Check demo 👉🏻 https://priya7319.github.io/CodeClauseInternship_TodoList/
